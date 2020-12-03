@@ -3,15 +3,14 @@ Hi, my name is Ryan Hinkle (he/his/him). I am a software engineer at Integral.io
 
 ## Who am I?
 ### Non-work
-I have been in Detroit, MI for the last 4+ years and recently just bought a house. I have been hobbies including:
+I have been in Detroit, MI for the last 4+ years and recently just bought a house. My hobbies including:
 * Photography
 * Cooking
 * Dungeons and dragons
 * Home improvement things
 
 ### Work
-I began my career working on developing custom WordPress websites. Quickly I found I enjoy working on the frontend of software development. I had the opportunity to then work on a large financial tech application where I learned about developing enterprise solutions. I continue to hone my skills working within the financial tech industry.
-
+I began my career working on developing custom WordPress websites. Quickly I found I enjoy working on the frontend software development. I had the opportunity to then work on a large financial tech application where I learned about developing enterprise solutions. I continue to hone my skills working within the financial tech industry.
 
 **Hard Skills Strengths** 
 * Frontend Development
@@ -31,7 +30,7 @@ Goals are hard for me as I frequently change my thoughts.
 
 * Id like to learn more about how to encourage team health and collaboration within a project.
 * I am interested in team member enablement and project onboarding.
-* Wanting to learn how to develop great software thru kindness, understanding, and compassion.
+* Interested in learning how to develop great software thru kindness, understanding, and compassion.
 
 ### Career Goals
 * TBD
