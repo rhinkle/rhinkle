@@ -28,12 +28,12 @@ I began my career working on developing custom WordPress websites. Quickly I fou
 ### Learning goals
 Goals are hard for me as I frequently change my thoughts.
 
+* Currently working thur the [gilded rose kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) and enjoying the practice on refactor within a lagacy system.
 * Id like to learn more about how to encourage team health and collaboration within a project.
 * I am interested in team member enablement and project onboarding.
-* Interested in learning how to develop great software thru kindness, understanding, and compassion.
 
 ### Career Goals
-* TBD
+* Become a manager of people
 
 ## You can lean on me to...
 * Talking through your thoughts or just general "rubber ducking"
