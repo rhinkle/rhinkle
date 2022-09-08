@@ -5,17 +5,17 @@ Fav Emoji: :sweat_smile:
 
 ## Who am I?
 ### Non-work
-I have been in Detroit, MI for the last 5+ years and recently just to Grand Rapids, MI . Some of my hobbies are: 
+I have been in Detroit, MI, for the last 5+ years and recently just to Grand Rapids, MI. Some of my hobbies are: 
 * Pottery 
 * Home improvement things :hammer: :house:
 * Photograph :camera:
 * Custom Keyboards :keyboard:
-* post apocalyptic non fiction & self help books :book: :worm:
+* post-apocalyptic non fiction & self help books :book: :worm:
 * Cooking
 * Dungeons and dragons :dragon:
 
 ### Work
-I began my career working on developing custom WordPress websites. Quickly I found I enjoy working with customers on creating a software solution that fit their needs. I had the opportunity to work on a finTech application where I learned about developing enterprise solutions. I continue to hone my skills working on financial tech applications and products.
+I began my career working on developing custom WordPress websites. I quickly found that I enjoy working with customers to create software solution that fits their needs. I had the opportunity to work on a finTech application where I learned about developing enterprise solutions. I continue to hone my skills working on financial tech applications and products.
 
 **Hard Skills Strengths** 
 * Application Architecture within a system
@@ -30,29 +30,31 @@ I began my career working on developing custom WordPress websites. Quickly I fou
 * Promoting team health and collaboration.
 * Consulting Practices
 * 1-1 Conversation with peers
-* How to give hard feedback (always learning)
+* How to give challenging feedback (always learning)
 
 ## Goals
 ### Learning goals
-Goals are hard for me as I frequently change my thoughts and passions. :)
+Goals are challenging for me as I frequently change my thoughts and passions. :)
 
-### Current Goals
+### Current Learning Goals
 * Grow my leadership | manager skills
 * Grow Consulting Skills
-* How to enable my peers and groups of people to achieve there goal.
-* Lean into how to be an effective manager of humans and how to communicate clear expectations to peers and team members.
-### Past Goals
+* How to enable my peers and groups to achieve their goals.
+* How to be an effective manager of humans and how to communicate clear expectations to peers and team members.
+* Id like to learn more about encouraging team health and collaboration within a project.
+### Past Learning Goals
 * [gilded rose kata](https://github.com/emilybache/GildedRose-Refactoring-Kata): practicing refactoring within a legacy system.
-* Id like to learn more about how to encourage team health and collaboration within a project.
 * I am interested in team member enablement and project onboarding.
+
 ### Career Goals
 * Director of Engineering (Long term)
 
-#### Past Goals
+#### Past Career Goals
 * Sr. Engineer
 * Become a manager of people
+
 ## You can lean on me to...
-* Talking through your thoughts or just general "rubber ducking"
+* Talking through your thoughts or just general "rubber ducking."
 * Providing feedback & working thur your questions or thoughts
 * Application Architecture within a system
 * Helping with communication or disagreements
@@ -66,8 +68,8 @@ Goals are hard for me as I frequently change my thoughts and passions. :)
 * 
 
 ## Ways of working together
-* I am not the strongest with spelling and grammar. I have a bit of dyslexia so words can be hard for me. If you see me type a word you may point it out, but let me find out how to spell it properly on my own. Thank you for giving me grace on this :)  
-* I may seem like an extrovert however I am an introvert. I do need time to recharge my social battery. I will be vocal when I need a break.
+* I am not the strongest with spelling and grammar. I have a bit of dyslexia, so words can be challenging for me. If you see me type a word, you may point it out, but let me find out how to spell it correctly on my own. Thank you for giving me grace on this :)  
+* I may seem like an extrovert; however, I am an introvert. I do need time to recharge my social battery. I will be vocal when I need a break.
 
 ## Teamwork preferences
 * Screenshare: Zoom | Pop | Slack
@@ -86,7 +88,7 @@ Goals are hard for me as I frequently change my thoughts and passions. :)
 * CircleCi
 
 ## Feedback preferences
-I do best with 1-1 conversion for feedback, however, I am happy with any feedback that comes thru slack. Email is my least responsive mode of communication. If I am free on my calendar, I do not mind an impromptu meeting to chat :smile:.
+I do best with 1-1 conversion for feedback; however, I am happy with any feedback that comes thru Slack. Email is my least responsive mode of communication. If I am free on my calendar, I do not mind an impromptu meeting to chat :smile:.
 
 ## Giving feedback on this document
-Do you have thoughts about my readme? Send me a message and lets chat! :)
+Do you have thoughts about my readme? Please send me a message, and let's chat! :)
