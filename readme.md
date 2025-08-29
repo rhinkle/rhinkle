@@ -1,9 +1,8 @@
 # Readme: Ryan Hinkle
 
-Hi, my name is Ryan Hinkle (he/his/him). I am a Sr. Software Engineering Manager at Integral.io. I am looking forward to working with you.
+Hi, my name is Ryan Hinkle (he/his/him). I am a Managing Consultant, Software Engineer at Inspire 11. I am looking forward to working with you.
 
 Fav Emoji: :sweat_smile:
-
 ## Who am I?
 
 ### Non-work
