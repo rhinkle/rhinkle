@@ -45,11 +45,13 @@ I began my career developing custom WordPress websites. I enjoy solving customer
 
 ### Current Learning Goals
 
+- Practical use of AI coding tools
+- Learn an additional programming language (Go | C#/.net )
+- Grow my technical skills in the following areas:
 - Grow my leadership | manager skills
 - Grow Consulting Skills
 - How to support my direct reports to achieve their career goals.
 - How to be an effective manager of humans and how to communicate clear expectations to peers and team members.
-- Id like to learn more about encouraging team health and collaboration within a project.
 
 ### Past Learning Goals
 
@@ -58,7 +60,7 @@ I began my career developing custom WordPress websites. I enjoy solving customer
 
 ### Career Goals
 
-- Director of Engineering (Long term)
+- Unknonwn at this time.
 
 #### Past Career Goals
 
@@ -79,7 +81,6 @@ I began my career developing custom WordPress websites. I enjoy solving customer
 
 - I love feedback on how I can be a better human. My "door" is always open to giving feedback. Throw time on my calendar happy to meet up!
 - If something I say is not clear or concise, let me know Id love to dive deeper so you can get a better understanding.
--
 
 ## Ways of working together
 
